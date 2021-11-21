@@ -20,6 +20,9 @@
 
     <modules>
         <module>calculator-signs-core</module>
+        <module>calculator-signs-auth</module>
+        <module>calculator-signs-input</module>
+        <module>calculator-signs-external</module>
     </modules>
 
     <dependencies>

@@ -1,13 +1,13 @@
-package ru.alextk.calculatorsigns;
+package ru.alextk.input;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CalculatorSignsApplication {
+public class InputApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CalculatorSignsApplication.class, args);
+        SpringApplication.run(InputApplication.class, args);
     }
 
 }
